@@ -1,0 +1,9 @@
+{
+  "name": "chembulatov-window-manager",
+  "version": "1.0.1",
+  "description": "Window manager",
+  "main": "index.js",
+  "dependencies": {
+    "node-gyp": "^9.3.1"
+  }
+}
